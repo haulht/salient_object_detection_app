@@ -111,7 +111,7 @@ def init_page():
     col, pad = st.columns([85, 15])
 
     with col:
-        st.image("app_pic.png")
+        st.image("header.png")
 
 
 def run_test(config, input_file_name, display_area, uploaded_file, mask_type):
